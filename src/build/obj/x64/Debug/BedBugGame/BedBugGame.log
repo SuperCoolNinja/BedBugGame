@@ -1,0 +1,5 @@
+﻿  main.c
+C:\BedBugGame\BedBugGame\main.c(31,88): warning C4020: 'perror': too many actual parameters
+C:\BedBugGame\BedBugGame\main.c(32,14): warning C4013: 'printf' undefined; assuming extern returning int
+C:\BedBugGame\BedBugGame\main.c(80,12): warning C4013: 'time' undefined; assuming extern returning int
+  BedBugGame.vcxproj -> C:\BedBugGame\bin\Debug\BedBugGame.exe
