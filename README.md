@@ -17,6 +17,6 @@ Copyright goes for :
 @raysan5 for his amazing library simple to use and free.
 @SuperCoolNinja for this little shitty mini game.
 
-
+Game preview : 
 https://user-images.githubusercontent.com/28671231/164990980-936b9063-c7e9-40cd-a647-bb9b4a0e2b6b.mp4
 
